@@ -1,0 +1,2 @@
+#!/bin/sh
+tests/fetch http://example.com
